@@ -1,0 +1,8 @@
+D:\C#\TernavskyVadym3\TernavskyVadym3\bin\Debug\TernavskyVadym3.exe.config
+D:\C#\TernavskyVadym3\TernavskyVadym3\bin\Debug\TernavskyVadym3.exe
+D:\C#\TernavskyVadym3\TernavskyVadym3\bin\Debug\TernavskyVadym3.pdb
+D:\C#\TernavskyVadym3\TernavskyVadym3\obj\Debug\TernavskyVadym3.csproj.AssemblyReference.cache
+D:\C#\TernavskyVadym3\TernavskyVadym3\obj\Debug\TernavskyVadym3.csproj.SuggestedBindingRedirects.cache
+D:\C#\TernavskyVadym3\TernavskyVadym3\obj\Debug\TernavskyVadym3.csproj.CoreCompileInputs.cache
+D:\C#\TernavskyVadym3\TernavskyVadym3\obj\Debug\TernavskyVadym3.exe
+D:\C#\TernavskyVadym3\TernavskyVadym3\obj\Debug\TernavskyVadym3.pdb
